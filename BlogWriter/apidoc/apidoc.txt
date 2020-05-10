@@ -1,0 +1,7 @@
+user register
+api: /api/register
+param: {"username":"and2","password":"and","email":"and2@gmail.com","phone":"135792", "dob" : "1/2/3", "gender": "F"}
+
+user login
+api: /api/login
+param: {"username" : "amk","password" : "amk"}
